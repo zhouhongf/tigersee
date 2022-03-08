@@ -1,0 +1,7 @@
+{
+  "name": "tigersee",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
